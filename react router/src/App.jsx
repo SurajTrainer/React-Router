@@ -7,6 +7,8 @@ import About from "./components/About"
 
 function App() {
 
+
+  // we should make this on main.jsx bu this is just for understanding the router concept
   const router = createBrowserRouter([
     {
       path : '/',
