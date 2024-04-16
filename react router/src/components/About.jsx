@@ -1,4 +1,6 @@
 import React from 'react'
+// just for exaple purpose / understanding router 
+
 
 const About = () => {
   return (
